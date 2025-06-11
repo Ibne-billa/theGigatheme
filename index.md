@@ -1,4 +1,7 @@
 ---
+title: The Giga Theme
 ---
 
-# tonic-starter
+# gigatheme
+
+*gigatheme* is a jekyll theme made by me
